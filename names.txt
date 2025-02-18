@@ -1,3 +1,3 @@
 role,NetID,LastName,FirstName
-boss,jzhang2647,Jiawei,Zhang
+boss,jzhang2647,Zhang,Jiawei
 employee,snegus,Negus,Samuel
