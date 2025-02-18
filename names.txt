@@ -1,1 +1,2 @@
 boss,NetID,LastName,FirstName
+employee,snegus,Negus,Samuel
